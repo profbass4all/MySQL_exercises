@@ -19,3 +19,9 @@ The problems covers the following areas of MySql:
 7. Aggregate Functions
 
 8. Joins
+
+NB:
+
+I am sure most of the solutions are correct but perhaps you come across an incorrect one, please correct me with love and care. I'm sure I wrote the incorrect answers when i was feeling dizzy and hungry.
+
+This work is an open source, feel free to make contributions where relevent.
